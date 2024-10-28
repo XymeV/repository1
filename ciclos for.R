@@ -7,7 +7,9 @@ for (i in 1:5) {
 for(i in 1:1001){
   print("Hola Xymena")
 }
-
+for(i in 1:1001){
+  print("Hola Alondra y xymena")
+}
 
 #2
 vector <- c(3, 5, 7, 9)
