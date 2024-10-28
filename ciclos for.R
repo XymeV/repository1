@@ -8,7 +8,7 @@ for(i in 1:1001){
   print("Hola Xymena")
 }
 for(i in 1:1001){
-  print("Hola Alondra y xymena")
+  print("Hola Alondra y Xymena :)")
 }
 
 #2
