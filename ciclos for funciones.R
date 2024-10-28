@@ -17,9 +17,6 @@ excusa<-function(){
 }
 
 
-
-}
-
 ex1<-excusas2024 [sample(1:33, 1), 1]
 ex2<-excusas2024 [sample(1:33, 1), 2]
 ex3<-excusas2024 [sample(1:33, 1), 3]
